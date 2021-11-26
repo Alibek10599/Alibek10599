@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning Angular, Django and Node 
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with Next js projects
-- 📫 How to reach me: ...
+- 📫 How to reach me: alibek.khojabekov@nu.edu.kz
 - 😄 Pronouns: ол/оның
-- ⚡ Fun fact: I can make bubbles from my spittles😂
+- ⚡ Fun fact: I can make bubbles from my spittle😂
 
