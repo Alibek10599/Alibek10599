@@ -3,7 +3,7 @@
 <!--
 **Alibek10599/Alibek10599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on sana-education.kz and r4.education platforms
 - 🌱 I’m currently learning Angular, Django and Node 
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ол/оның
 - ⚡ Fun fact: I can make bubbles from my spittles😂
--->
+
