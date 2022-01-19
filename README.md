@@ -13,3 +13,4 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: ол/оның
 - ⚡ Fun fact: I can make bubbles from my spittle😂
 
+[twitter]: https://twitter.com/leha_moryak
