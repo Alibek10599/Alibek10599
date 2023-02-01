@@ -12,6 +12,6 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: alibek.khojabekov@nu.edu.kz
 - 😄 Pronouns: ол/оның
 
-[<img align="center" alt="Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />][twitter]
+Social Media:  [<img align="center" alt="Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />][twitter]
 
-Social Media: [twitter]: https://twitter.com/leha_moryak
+[twitter]: https://twitter.com/leha_moryak
