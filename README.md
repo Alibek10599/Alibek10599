@@ -19,9 +19,9 @@ Social Media:  [<img align="center" alt="Twitter" width="22px" src="https://cdn2
 
 ## Github STATS :cyclone: !
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alibek10599&theme=algolia&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" />  ![github stats](https://github-readme-stats.vercel.app/api?username=Alibek10599&show_icons=true&theme=algolia)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alibek10599&theme=tokyonight&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" />  ![github stats](https://github-readme-stats.vercel.app/api?username=Alibek10599&show_icons=true&theme=tokyonight)
 
-<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Alibek10599&layout=compact&theme=algolia"/>
+<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Alibek10599&layout=compact&theme=tokyonight"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alibek10599" /></a> </p>
 
